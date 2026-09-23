@@ -1,17 +1,17 @@
 # VinyxSoftware
 
-**Ein Entwickler. Kein Overhead.**
+**One developer. No overhead.**
 
-Ich baue Produkte, die live gehen, Nutzer gewinnen und Geld verdienen — von der Datenbank bis zum Checkout, vom ersten Commit bis zum zahlenden Kunden. Keine Agentur dazwischen, kein Briefing das dreimal weitergegeben wird.
+I build products that go live, win users, and make money — from the database to checkout, from the first commit to the paying customer. No agency in between, no briefing passed along three times.
 
-📍 Illnau, Schweiz · 🌐 [vinyxsoftware.ch](https://vinyxsoftware.ch)
+📍 Illnau, Switzerland · 🌐 [vinyxsoftware.ch](https://vinyxsoftware.ch)
 
-## Live-Produkte
+## Live products
 
-- **[Mietklar.ch](https://mietklar.ch)** — Mängelanzeige & Mietrecht-Tools für die Schweiz
-- **[Finanzli.ch](https://finanzli.ch)** — Vorsorge-Rechner (AHV/PK/3a) für die Schweiz
-- **[DividendWatch](https://dividendwatch.vercel.app)** — Dividend-Stock-Intelligence für DACH-Anleger ([Quellcode](https://github.com/Vinyxsoftware/dividendwatch))
-- **[Alleman An Bord](https://amab.racing)** — Sim-Racing-Team-Website
+- **[Mietklar.ch](https://mietklar.ch)** — defect reports & tenancy-law tools for Switzerland
+- **[Finanzli.ch](https://finanzli.ch)** — retirement planning calculators (AHV/PK/3a) for Switzerland
+- **[DividendWatch](https://dividendwatch.vercel.app)** — dividend stock intelligence for DACH investors ([source](https://github.com/Vinyxsoftware/dividendwatch))
+- **[Alleman An Bord](https://amab.racing)** — sim racing team website
 
 ## Stack
 
@@ -19,4 +19,4 @@ Next.js · TypeScript · PostgreSQL · Prisma · Express · Docker · Tailwind
 
 ---
 
-*Aktuell werden 1–2 neue Projekte pro Quartal angenommen.*
+*Currently taking on 1–2 new projects per quarter.*
